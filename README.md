@@ -66,3 +66,17 @@ To stop the service:
 ```bash
 docker-compose down
 ```
+## Resources and References
+
+### Documentation
+
+- [FastAPI Documentation](https://fastapi.tiangolo.com/)
+- [Prisma Documentation](https://www.prisma.io/docs/overview)
+- [Prisma client Python Documentation](https://prisma-client-py.readthedocs.io/en/stable/)
+- [Docker Documentation](https://docs.docker.com/)
+- [UV Documentation](https://github.com/astral-sh/uv)
+- [PostgreSQL Documentation](https://www.postgresql.org/)
+
+### YouTube Tutorials
+- [Prisma ORM with Python and FastAPI](https://youtu.be/21371tIb2yg)
+- [Master Python Rest API Development With Fast API, Prisma & MongoDB | With Best Practices](https://youtu.be/OBUv7sjukqc)
