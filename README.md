@@ -13,7 +13,7 @@ This is a sample project demonstrating the use of FastAPI with Prisma.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/tomdu3/prisma-test.git
 cd prisma-test
 ```
 
